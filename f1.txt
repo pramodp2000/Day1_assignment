@@ -1,2 +1,3 @@
 this is first text file
 f1.txt
+this is f1.txt file
