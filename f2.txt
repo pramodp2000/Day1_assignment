@@ -1,2 +1,2 @@
 this is second text file
-f2.txt
+this is f2.txt
